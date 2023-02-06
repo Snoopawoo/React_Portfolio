@@ -61,7 +61,7 @@ a:hover {
   color: #7ea931;
 }
 
-home h1{
+.home h1{
   position: absolute;
   color:#f5e9ed;
   display: flex;

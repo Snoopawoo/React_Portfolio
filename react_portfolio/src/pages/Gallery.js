@@ -2,13 +2,13 @@ import Project from "../components/Project";
 
 function Gallery() {
     return (
-        <div class = 'Gbg'>
-        <section class = 'gallerybox'>
+        <div className = 'Gbg'>
+        <section className = 'gallerybox'>
             <Project />
             <Project />
             <Project />
         </section>
-        <section class = 'gallerybox'>
+        <section className = 'gallerybox'>
             <Project />
             <Project />
             <Project />
