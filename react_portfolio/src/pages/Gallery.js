@@ -1,12 +1,19 @@
+import Project from "../components/Project";
+
 function Gallery() {
     return (
-        <>
-            <h1>Gallery</h1>
-
-            <p>
-                dadaw
-            </p>
-        </>
+        <div class = 'Gbg'>
+        <section class = 'gallerybox'>
+            <Project />
+            <Project />
+            <Project />
+        </section>
+        <section class = 'gallerybox'>
+            <Project />
+            <Project />
+            <Project />
+        </section>
+        </div>
     )
 }
 

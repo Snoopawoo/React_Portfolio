@@ -136,3 +136,47 @@ home h1{
 .foot p{
   margin: 0;
 }
+
+.projectcard {
+  padding: 1%;
+  background: #f5e9ed;
+  border:#905655 solid;
+  border-radius: 1%;
+  width: 30% !important;
+  margin: 5%;
+}
+
+.card-img-top {
+  border-radius: 1%;
+}
+
+.gallerybox {
+  display: flex;
+}
+
+.Gbg {
+  background: #ffffff;
+}
+
+.card-title {
+  padding: 5% 0px 2% 0px;
+  color: #905655;
+}
+
+.card-text {
+padding-bottom: 5%;
+font-size: 20px;
+}
+
+.card-link {
+color: #905655;
+}
+.card-link:hover{
+  color: #7ea931;
+}
+
+.linkstorage{
+  display: flex;
+  font-size: 19px;
+  justify-content: space-around;
+}
