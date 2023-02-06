@@ -188,6 +188,10 @@ color: #905655;
   color: #905655;
 }
 
+.ContactTitle2 {
+  font-size: 25px;
+}
+
 .list-group-item {
   display: flex;
   justify-content: space-between;
@@ -206,4 +210,21 @@ color: #905655;
 .list-group-item p {
   padding: 0;
   margin: 0;
+}
+
+.contform {
+  color: #905655;
+  margin-top: 2%;
+  padding: 0px 30% 0px 2%;
+}
+
+.btn {
+  background-color: #905655;
+  border-color: #905655;
+  color: #f5e9ed;
+}
+
+.btn:hover {
+  background: #7ea931;
+  border-color: #7ea931;
 }
