@@ -53,7 +53,12 @@ a:not(:last-child) {
 }
 
 a.active {
-  text-decoration: underline;
+  color: #7ea931;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #7ea931;
 }
 
 home h1{
@@ -205,6 +210,10 @@ color: #905655;
 
 .list-group-item a {
   color: #905655;
+}
+
+.list-group-item a:hover {
+  color: #7ea931;
 }
 
 .list-group-item p {
