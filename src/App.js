@@ -13,7 +13,9 @@ function App() {
   return (
     <>
       <Header/>
-      <Home />
+
+      <Redirect exact from="" to="/" />
+
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/Contact' element={<Contact />}/>
