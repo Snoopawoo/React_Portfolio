@@ -14,10 +14,10 @@ function App() {
     <>
       <Header/>
 
-      <Redirect exact from="" to="/Home" />
+      <Redirect exact from="" to="/" />
 
       <Routes>
-        <Route path='/Home' element={<Home />}/>
+        <Route path='/' element={<Home />}/>
         <Route path='/Contact' element={<Contact />}/>
         <Route path='/Gallery' element={<Gallery />}/>
       </Routes>
