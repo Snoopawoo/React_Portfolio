@@ -1,23 +1,23 @@
 [
     {
-      "title": "Project one",
-      "description": "dwadmkawlkdmkawldkalwd",
-      "site": "www.djawdnjkawnd.com",
-      "repo": "www.dadawdwadawda.com",
+      "title": "Weather Dashboard",
+      "description": "This is a weather forcast application, that gets data by user input and displayes it, saves the instances to history for ease of access.",
+      "site": "https://snoopawoo.github.io/Weather_Dashboard/",
+      "repo": "https://github.com/Snoopawoo/Weather_Dashboard",
       "image": "'fair/dawda/dwada'"
     },
     {
-        "title": "Project one",
-        "description": "dwadmkawlkdmkawldkalwd",
-        "site": "www.djawdnjkawnd.com",
-        "repo": "www.dadawdwadawda.com",
+        "title": "Planner App",
+        "description": "This application serves as a daily planner that lets you store tasks, and show them by the past, present and future hours styled accordingly to local time.",
+        "site": "https://snoopawoo.github.io/Planner_app_challenge/",
+        "repo": "https://github.com/Snoopawoo/Planner_app_challenge",
         "image": "fair/dawda/dwada"
       },
       {
-        "title": "Project one",
-        "description": "dwadmkawlkdmkawldkalwd",
-        "site": "www.djawdnjkawnd.com",
-        "repo": "www.dadawdwadawda.com",
+        "title": "Quiz App",
+        "description": "This is a quiz application that is time based, and takes away time for incorrect answers. The scores are stored in local storage and printed to a scoreboard. The script files contain easy to understand code.",
+        "site": "https://snoopawoo.github.io/Quiz_Challenge/",
+        "repo": "https://github.com/Snoopawoo/Quiz_Challenge",
         "image": "fair/dawda/dwada"
       }
 ]
