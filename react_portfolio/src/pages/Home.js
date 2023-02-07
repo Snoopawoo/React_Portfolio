@@ -2,7 +2,7 @@ function Home() {
     return (
         <div className = 'home'>
             <h1>Csaba Rektenwald</h1>
-            <a class = 'aboutmelink' href = '#aboutme'>About Me</a>
+            <a class = 'aboutmelink' href = '#aboutme'>About Me &#8681;</a>
             <div className = 'image'></div>
             <section className = 'brand'>
                 <h2 id = 'aboutme'>About Me</h2>
