@@ -1,5 +1,6 @@
 function Project(props) {
     return (
+
         <div className = 'projectcard'>
   <img src = {props.image} className ="card-img-top" alt="..."/>
   <div className ="card-body">
@@ -7,8 +8,8 @@ function Project(props) {
     <p className ="card-text">{props.description}</p>
   </div>
   <div className ="card-body linkstorage">
-    <a href="#" className ="card-link">{props.site}</a>
-    <a href="#" className ="card-link">{props.repo}</a>
+    <a href={props.site} className ="card-link">Site</a>
+    <a href={props.repo} className ="card-link">Repo</a>
   </div>
 </div>
 
