@@ -4,20 +4,20 @@
       "description": "This is a weather forcast application, that gets data by user input and displayes it, saves the instances to history for ease of access.",
       "site": "https://snoopawoo.github.io/Weather_Dashboard/",
       "repo": "https://github.com/Snoopawoo/Weather_Dashboard",
-      "image": "'fair/dawda/dwada'"
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25a1bd62-bd9f-4075-8afa-9665c9aa7a3e/dfoqpyj-5dbd50ac-8d46-4d83-b838-d8bbc65b8cd3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YTFiZDYyLWJkOWYtNDA3NS04YWZhLTk2NjVjOWFhN2EzZVwvZGZvcXB5ai01ZGJkNTBhYy04ZDQ2LTRkODMtYjgzOC1kOGJiYzY1YjhjZDMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FhLj_kwwq1x3B1jyNZOZvdtw3oNcl1vF7OM0pj1avx8"
     },
     {
         "title": "Planner App",
         "description": "This application serves as a daily planner that lets you store tasks, and show them by the past, present and future hours styled accordingly to local time.",
         "site": "https://snoopawoo.github.io/Planner_app_challenge/",
         "repo": "https://github.com/Snoopawoo/Planner_app_challenge",
-        "image": "fair/dawda/dwada"
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25a1bd62-bd9f-4075-8afa-9665c9aa7a3e/dfoqpyu-adbca6fd-b3cc-4a2a-8d87-01b1555e8257.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YTFiZDYyLWJkOWYtNDA3NS04YWZhLTk2NjVjOWFhN2EzZVwvZGZvcXB5dS1hZGJjYTZmZC1iM2NjLTRhMmEtOGQ4Ny0wMWIxNTU1ZTgyNTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DABowLFM4HEboO6H9Aef3cxg6_3v02Xoz0yNg2GdGek"
       },
       {
-        "title": "Quiz App",
-        "description": "This is a quiz application that is time based, and takes away time for incorrect answers. The scores are stored in local storage and printed to a scoreboard. The script files contain easy to understand code.",
-        "site": "https://snoopawoo.github.io/Quiz_Challenge/",
-        "repo": "https://github.com/Snoopawoo/Quiz_Challenge",
-        "image": "fair/dawda/dwada"
+        "title": "Recipe Finder",
+        "description": "This is a recipe finder app, that me and my team mates created for a project.",
+        "site": "https://agh911.github.io/recipe-finder/",
+        "repo": "https://github.com/agh911/recipe-finder",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25a1bd62-bd9f-4075-8afa-9665c9aa7a3e/dfoqpym-ce993a85-1261-4c63-9582-4c33206d3305.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YTFiZDYyLWJkOWYtNDA3NS04YWZhLTk2NjVjOWFhN2EzZVwvZGZvcXB5bS1jZTk5M2E4NS0xMjYxLTRjNjMtOTU4Mi00YzMzMjA2ZDMzMDUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c1zkU3s95054dDFFXxwJHG7v1y8TqGjZtS_bq4AY_50"
       }
 ]

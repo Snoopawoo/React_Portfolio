@@ -2,9 +2,10 @@ function Home() {
     return (
         <div className = 'home'>
             <h1>Csaba Rektenwald</h1>
+            <a class = 'aboutmelink' href = '#aboutme'>About Me</a>
             <div className = 'image'></div>
             <section className = 'brand'>
-                <h2>About Me</h2>
+                <h2 id = 'aboutme'>About Me</h2>
                 <p className = 'statement'>
                     I was born in Hungary where I spent my early years and have finished my studies as a Graphic and Multimedia Designer.
                     Right after this accomplishment, I moved to the UK and started working on some projects.

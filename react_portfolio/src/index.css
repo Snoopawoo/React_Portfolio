@@ -70,10 +70,20 @@ a:hover {
   margin-top: 2.5%;
 }
 
+.aboutmelink{
+  font-size: 30px;
+  position: absolute;
+  color:#f5e9ed;
+  display: flex;
+  flex-direction: row;
+  margin-top: 38%;
+  margin-left: 88%;
+}
+
 .image{
   margin-bottom: 0;
   height: 92vh;
-  background-image: url('https://dummyimage.com/1080x450/000/fff');
+  background-image: url('https://dummyimage.com/1080%20x%20450/000/fff&text=Placeholder+for+headshot');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -169,6 +179,7 @@ a:hover {
 }
 
 .card-text {
+min-height: 180px;
 padding-bottom: 5%;
 font-size: 20px;
 }
