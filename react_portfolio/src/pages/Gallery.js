@@ -1,17 +1,22 @@
 import Project from "../components/Project";
 
+import dData from '../data.json'
+import dData2 from '../data2.json' 
+
 function Gallery() {
     return (
         <div className = 'Gbg'>
         <section className = 'gallerybox'>
-            <Project />
-            <Project />
-            <Project />
+            {dData.map((project, i) => (
+                <Project title={project.title} image={project.image} repo={project.repo} site={project.site} description={project.description}/>
+            
+            ))}
         </section>
         <section className = 'gallerybox'>
-            <Project />
-            <Project />
-            <Project />
+        {dData2.map((project, i) => (
+                <Project title={project.title} image={project.image} repo={project.repo} site={project.site} description={project.description}/>
+            
+            ))}
         </section>
         </div>
     )
